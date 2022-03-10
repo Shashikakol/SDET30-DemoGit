@@ -12,5 +12,7 @@ public void comCostGit()
 	System.out.println("Hello its meeeeee");
 	
 	System.out.println("This is user 1");
+	System.out.println("This is user 2");
+	System.out.println("This is user 3");
 }
 }
