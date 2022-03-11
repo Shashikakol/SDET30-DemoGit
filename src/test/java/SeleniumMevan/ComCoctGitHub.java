@@ -8,5 +8,6 @@ public class ComCoctGitHub
 public void comCoctGitHub()
 {
 	System.out.println("user name 1");
+	System.out.println("user name 2");
 }
 }
