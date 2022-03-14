@@ -2,7 +2,7 @@ package SeleniumMevan;
 
 import org.testng.annotations.Test;
 
-public class ComCostGit
+public class ComCostGitTest
 {
 @Test
 public void comCostGit()

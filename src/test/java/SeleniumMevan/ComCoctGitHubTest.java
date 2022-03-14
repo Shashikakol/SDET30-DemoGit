@@ -2,7 +2,7 @@ package SeleniumMevan;
 
 import org.testng.annotations.Test;
 
-public class ComCoctGitHub 
+public class ComCoctGitHubTest 
 {
 @Test
 public void comCoctGitHub()
