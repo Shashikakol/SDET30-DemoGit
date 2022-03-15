@@ -22,6 +22,9 @@ public void comCoctGitHub()
 	System.out.println("user name 7");
 	System.out.println("user name 8");
 	
+	System.out.println("user name 7");
+	System.out.println("user name 8");
+	
 }
 @Test
 public void salagaTea()
