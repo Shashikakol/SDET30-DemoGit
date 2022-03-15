@@ -29,5 +29,8 @@ public void SahasaSihmaTest()
 	
 	System.out.println("vishnu sir best actor in kannada industry");
 	System.out.println(" ramachari is the best movie");
+	
+	System.out.println("vishnu sir best actor in kannada industry");
+	System.out.println(" ramachari is the best movie");
 }
 }
