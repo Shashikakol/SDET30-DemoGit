@@ -15,6 +15,8 @@ public void HatricTest()
 {
 	System.out.println("shivaraj best actor in kannada industry");
 	System.out.println("jogi is the best film");
+	System.out.println("shivaraj best actor in kannada industry");
+	System.out.println("jogi is the best film");
 }
 @Test
 public void SahasaSihmaTest()
