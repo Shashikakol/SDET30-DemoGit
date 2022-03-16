@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="73" started-at="2022-03-14T18:07:29Z" finished-at="2022-03-14T18:07:29Z">
+  <suite name="Default suite" duration-ms="57" started-at="2022-03-16T05:24:27Z" finished-at="2022-03-16T05:24:27Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="73" started-at="2022-03-14T18:07:29Z" finished-at="2022-03-14T18:07:29Z">
-      <class name="Maven.KichhaTest">
-        <test-method status="PASS" signature="HatricTest()[pri:0, instance:Maven.KichhaTest@5034c75a]" name="HatricTest" duration-ms="13" started-at="2022-03-14T18:07:29Z" finished-at="2022-03-14T18:07:29Z">
+    <test name="Default test" duration-ms="57" started-at="2022-03-16T05:24:27Z" finished-at="2022-03-16T05:24:27Z">
+      <class name="SeleniumMevan.ReadDataTest">
+        <test-method status="PASS" signature="read()[pri:0, instance:SeleniumMevan.ReadDataTest@5034c75a]" name="read" duration-ms="16" started-at="2022-03-16T05:24:27Z" finished-at="2022-03-16T05:24:27Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- HatricTest -->
-        <test-method status="PASS" signature="SahasaSihmaTest()[pri:0, instance:Maven.KichhaTest@5034c75a]" name="SahasaSihmaTest" duration-ms="7" started-at="2022-03-14T18:07:29Z" finished-at="2022-03-14T18:07:29Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SahasaSihmaTest -->
-        <test-method status="PASS" signature="kichhaTest()[pri:0, instance:Maven.KichhaTest@5034c75a]" name="kichhaTest" duration-ms="2" started-at="2022-03-14T18:07:29Z" finished-at="2022-03-14T18:07:29Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- kichhaTest -->
-      </class> <!-- Maven.KichhaTest -->
+        </test-method> <!-- read -->
+      </class> <!-- SeleniumMevan.ReadDataTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
